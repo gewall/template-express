@@ -2,9 +2,9 @@
     "setting": "development",
     "development": {
         "dbConfig": {
-            "username": "gewall",
-            "password": "Nugraha21",
-            "db_name": "ngadon"
+            "username": "",
+            "password": "",
+            "db_name": ""
         },
         "serverConfig": {
             "port": 4000
@@ -12,9 +12,9 @@
     },
     "production": {
         "dbConfig": {
-            "username": "gewall",
-            "password": "Nugraha21",
-            "db_name": "ngadon"
+            "username": "",
+            "password": "",
+            "db_name": ""
         },
         "serverConfig": {
             "port": 4000
